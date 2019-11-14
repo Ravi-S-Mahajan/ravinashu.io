@@ -16,7 +16,7 @@ body {
 
 .countdown-container {
     position: relative;
-    top: 180px;
+    top: 140px;
     -webkit-transform: translateY(-50%);
     -moz-transform: translateY(-50%);
     transform: translateY(-50%);
